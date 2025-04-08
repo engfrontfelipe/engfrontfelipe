@@ -4,7 +4,7 @@
 Sou um desenvolvedor Front-End com sólida experiência em HTML, CSS, JavaScript, TypeScript, Git/GitHub e no desenvolvimento de interfaces dinâmicas e interativas. Tenho forte habilidade em liderança de equipe, treinamento e gestão de projetos, sempre com uma abordagem centrada no cliente. Destaco-me pela excelente comunicação, oratória e relacionamento em todos os níveis de atendimento.
 
 ## 🛠️ Habilidades
-- **Linguagens e Tecnologias**: HTML, CSS, JavaScript, Git/GitHub
+- **Linguagens e Tecnologias**: HTML, CSS, TypeScript, Git/GitHub
 - **Frameworks e Bibliotecas**: React, Redux, JQuery, Bootstrap, AJAX
 - **Ferramentas e Conhecimentos**: Node.js, GULP, LESS, VueJS
 
